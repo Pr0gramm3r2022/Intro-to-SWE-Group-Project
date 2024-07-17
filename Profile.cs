@@ -11,5 +11,24 @@ public abstract class Profile
 		password = pass;
 	}
 
+	public void CreateOrder()
+	{
+
+	}
+
+	public void DeleteOrder()
+	{
+
+	}
+
+	public void EditOrder()
+	{
+
+	}
+
+	public void ViewOrders()
+	{
+
+	}
 	
 }
