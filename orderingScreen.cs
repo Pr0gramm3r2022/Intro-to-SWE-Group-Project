@@ -10,14 +10,9 @@ using System.Windows.Forms;
 
 namespace BevSalesSystem
 {
-    public partial class orderingScreen : Form
+    public partial class OrderingScreen : Form
     {
-        public orderingScreen()
-        {
-            InitializeComponent();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void AcmeLego(object sender, EventArgs e)
         {
 
         }
@@ -38,6 +33,11 @@ namespace BevSalesSystem
         }
 
         private void searchButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
