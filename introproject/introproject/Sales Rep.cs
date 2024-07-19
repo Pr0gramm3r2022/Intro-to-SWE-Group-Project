@@ -10,10 +10,11 @@ namespace Profile_SalesRep_Customer
     {
         public List<Customer> customers = new List<Customer>();
 
-        public Sales_Rep(string user, string pass) : base(user, pass) 
+        public Sales_Rep(string user, string pass, string name) : base(user, pass) 
         {
             username = user;
             password = pass;
+            Name = name;
         }
 
         public void AddCustomer()
@@ -75,10 +76,11 @@ namespace Profile_SalesRep_Customer
         public void SaveCustomers()
         {
             StreamWriter save = null;
+            string path = "C:\\Users\\uzowi\\source\\repos\\Profile-SalesRep-Customer\\ListofCustomers\\";
 
             try
             {
-                string path = "C:\\Users\\uzowi\\source\\repos\\Profile-SalesRep-Customer\\ListofCustomers\\";
+                
 
                 using (save = new StreamWriter(path)) 
                 {
@@ -98,7 +100,42 @@ namespace Profile_SalesRep_Customer
 
         public void LoadCustomers()
         {
-            
+            StreamReader load = null;
+            string path = "C:\\Users\\uzowi\\source\\repos\\Profile-SalesRep-Customer\\ListofCustomers\\";
+
+            try
+            {
+                if (File.Exists(path))
+                {
+                    using (load = new StreamReader(path))
+                    {
+                        string loadFile;
+                        customers.Clear();
+
+                        while ((loadFile = load.ReadLine()) != null)
+                        {
+                            var content = loadFile.Split(',');
+
+                            if (content.Length == 4)
+                            {
+                                customers.Add(new Customer(content[0], content[1], Convert.ToInt32(content[2]), content[3]));
+                            }
+                            else
+                            {
+                                Console.WriteLine("File does not exist.");
+                            }
+                        }
+                    }
+                }
+            }
+            catch (IOException i)
+            {
+                Console.WriteLine($"An error occured. {i.Message}");
+            }
+            catch (Exception e) 
+            {
+                Console.WriteLine($"Something went wrong. {e.Message}");
+            }
         }
 
 

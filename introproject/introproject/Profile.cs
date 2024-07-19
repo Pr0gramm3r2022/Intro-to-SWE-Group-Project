@@ -10,7 +10,7 @@ namespace Profile_SalesRep_Customer
     {
         public string username { get; set; }
         public string password { get; set; }
-
+        public string Name {  get; set; }
         public Profile(string user, string pass)
         {
             username = user;
@@ -19,7 +19,7 @@ namespace Profile_SalesRep_Customer
 
         public void CreateOrder()
         {
-
+            
         }
 
         public void DeleteOrder()
