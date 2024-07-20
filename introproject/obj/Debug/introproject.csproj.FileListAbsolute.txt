@@ -1,0 +1,45 @@
+D:\introproject\introproject\bin\Debug\introproject.exe.config
+D:\introproject\introproject\bin\Debug\introproject.exe
+D:\introproject\introproject\bin\Debug\introproject.pdb
+D:\introproject\introproject\obj\Debug\introproject.csproj.AssemblyReference.cache
+D:\introproject\introproject\obj\Debug\introproject.Form1.resources
+D:\introproject\introproject\obj\Debug\introproject.Properties.Resources.resources
+D:\introproject\introproject\obj\Debug\introproject.csproj.GenerateResource.cache
+D:\introproject\introproject\obj\Debug\introproject.csproj.CoreCompileInputs.cache
+D:\introproject\introproject\obj\Debug\introproject.exe
+D:\introproject\introproject\obj\Debug\introproject.pdb
+D:\introproject\introproject\obj\Debug\introproject.loginscreen.resources
+D:\introproject\introproject\obj\Debug\introproject.customermanagementscreen.resources
+D:\introproject\introproject\obj\Debug\introproject.Salesrepmanagement.resources
+D:\introproject\introproject\obj\Debug\introproject.route_determination.resources
+D:\introproject\introproject\obj\Debug\introproject.CustomerRecord.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.csproj.AssemblyReference.cache
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.customermanagementscreen.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.CustomerRecord.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.Form1.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.loginscreen.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.Properties.Resources.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.route_determination.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.Salesrepmanagement.resources
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.csproj.GenerateResource.cache
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.csproj.CoreCompileInputs.cache
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.exe
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\obj\Debug\introproject.pdb
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\bin\Debug\introproject.exe.config
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\bin\Debug\introproject.exe
+C:\Users\uzowi\OneDrive\SWE Project\SWE Project 2\introproject\introproject\bin\Debug\introproject.pdb
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\bin\Debug\introproject.exe.config
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\bin\Debug\introproject.exe
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\bin\Debug\introproject.pdb
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.csproj.AssemblyReference.cache
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.customermanagementscreen.resources
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.CustomerRecord.resources
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.Form1.resources
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.loginscreen.resources
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.Properties.Resources.resources
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.route_determination.resources
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.Salesrepmanagement.resources
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.csproj.GenerateResource.cache
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.csproj.CoreCompileInputs.cache
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.exe
+C:\Users\uzowi\OneDrive\SWE Project 2\introproject\introproject\obj\Debug\introproject.pdb

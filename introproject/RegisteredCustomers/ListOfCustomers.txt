@@ -1,0 +1,2 @@
+﻿user1, pass1, 0001, John Doe
+user2, pass2, 0002, Jane Doe
