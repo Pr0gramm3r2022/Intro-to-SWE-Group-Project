@@ -1,0 +1,20 @@
+C:\Users\uzowi\source\repos\SWE Final Project\bin\Debug\net8.0-windows\SWE Final Project.exe
+C:\Users\uzowi\source\repos\SWE Final Project\bin\Debug\net8.0-windows\SWE Final Project.deps.json
+C:\Users\uzowi\source\repos\SWE Final Project\bin\Debug\net8.0-windows\SWE Final Project.runtimeconfig.json
+C:\Users\uzowi\source\repos\SWE Final Project\bin\Debug\net8.0-windows\SWE Final Project.dll
+C:\Users\uzowi\source\repos\SWE Final Project\bin\Debug\net8.0-windows\SWE Final Project.pdb
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.csproj.GenerateResource.cache
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.AssemblyInfoInputs.cache
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.AssemblyInfo.cs
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.csproj.CoreCompileInputs.cache
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.dll
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\refint\SWE Final Project.dll
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.pdb
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE Final Project.genruntimeconfig.cache
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\ref\SWE Final Project.dll
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE_Final_Project.HomeScreen.resources
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE_Final_Project.LoginScreen.resources
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE_Final_Project.OrderScreen.resources
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE_Final_Project.NewCustomerScreen.resources
+C:\Users\uzowi\source\repos\SWE Final Project\obj\Debug\net8.0-windows\SWE_Final_Project.Properties.Resources.resources
